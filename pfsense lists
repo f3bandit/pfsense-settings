@@ -1,4 +1,14 @@
-https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt     adblock_youtube_ads
-https://fanboy.co.nz/fanboy-problematic-sites.txt                                   fanboy_problematic_sites
-https://www.fanboy.co.nz/r/fanboy-ultimate.txt                                      fanboy_ultimate
-https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt                     fanboy_annoyance
+https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
+https://fanboy.co.nz/fanboy-problematic-sites.txt
+https://www.fanboy.co.nz/r/fanboy-ultimate.txt
+https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
+https://raw.githubusercontent.com/MrBukLau/filter-lists-for-ublock-origin/master/filter_lists/resourcesfilterlist.txt
+https://raw.githubusercontent.com/SkeletalDemise/Skeletal-Blocker/master/Skeletal%20Blocker%20List
+https://raw.githubusercontent.com/MrBukLau/filter-lists-for-ublock-origin/master/filter_lists/socialfilterlist.txt
+https://raw.githubusercontent.com/Strappazzon/filterlists/master/Filterlists/Annoyances.txt
+https://raw.githubusercontent.com/MrBukLau/filter-lists-for-ublock-origin/master/filter_lists/streamingfilterlist.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeEvenMorePureVideoExperience.txt
+https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
