@@ -8,4 +8,4 @@ Value        = YES
 
 Tunable Name = dev.amdtemp.0.sensor_offset
 Description  = Temp cpu correction
-Value        = -64
+Value        = -21
