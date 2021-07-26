@@ -1,3 +1,4 @@
+digitalocean.com
 0-edge-chat.facebook.com
 0-edge-chat.facebook.com # Facebook
 0-edge-chat.facebook.com#Facebook
@@ -574,7 +575,6 @@ itunes.com
 itunes.com # Apple - App Store
 j.mp # General
 j.mp#General
-jonas.ns.Cloudflare.com
 jquery.com
 jquery.com # General
 jquery.com#General
@@ -1211,3 +1211,12 @@ zee.cws.conviva.com
 zeustracker.abuse.ch
 zeustracker.abuse.ch # Host files
 zeustracker.abuse.ch#Hostfiles
+www.textfixer.com
+cloudflare.net
+cloudfront.net
+jonah.ns.cloudflare.com
+pool.ntp.org
+2.pool.ntp.org
+dlink.com
+tp-link.com
+px1.tuyaus.com
