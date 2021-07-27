@@ -1,4 +1,3 @@
-digitalocean.com
 0-edge-chat.facebook.com
 0-edge-chat.facebook.com # Facebook
 0-edge-chat.facebook.com#Facebook
@@ -17,6 +16,7 @@ digitalocean.com
 2.android.pool.ntp.org
 2.android.pool.ntp.org # General
 2.android.pool.ntp.org#General
+2.pool.ntp.org
 3-edge-chat.facebook.com
 3-edge-chat.facebook.com # Facebook
 3-edge-chat.facebook.com#Facebook
@@ -62,6 +62,7 @@ adf.ly
 adf.ly # URL Shorteners
 adf.ly#URLShorteners
 ae01.alicdn.com
+akadns.net
 akamai.com
 akamaihd.net
 akamaihd.net # General
@@ -98,6 +99,7 @@ api-global.netflix.com # Netflix
 api-global.netflix.com#Netflix
 api.amazon.com
 api.amazonalexa.com
+api.github.com
 api.ipify.org
 api.ipify.org # General
 api.ipify.org#General
@@ -150,6 +152,7 @@ attestation.xboxlive.com
 attestation.xboxlive.com # General
 attestation.xboxlive.com#General
 audio-ake.spotify.com.edgesuite.net
+autopets.sso.iothings.site
 aws.amazon.com # General
 aws.amazon.com#General
 ax.phobos.apple.com.edgesuite.net
@@ -234,6 +237,8 @@ clients6.google.com
 clients6.google.com # General
 clients6.google.com#General
 cloudflare.com
+cloudflare.net
+cloudfront.net
 cognito-identity.us-east-1.amazonaws.com
 cognito-identity.us-east-1.amazonaws.com # Amazon Kindle
 cognito-identity.us-east-1.amazonaws.com#AmazonKindle
@@ -313,6 +318,7 @@ deviceservices-external.apple.com # Apple
 deviceservices-external.apple.com#Apple
 diagassets.apple.com # Apple - Used by Apple devices to help detect possible hardware issues.
 diagassets.apple.com#Apple-UsedbyAppledevicestohelpdetectpossiblehardwareissues.
+digitalocean.com
 directvapplications.hb.omtrdc.net
 directvnow.com
 display.ugc.bazaarvoice.com
@@ -330,6 +336,7 @@ dl.dropbox.com#General
 dl.dropboxusercontent.com
 dl.dropboxusercontent.com # General
 dl.dropboxusercontent.com#General
+dlink.com
 dns.msftncsi.com
 dns.msftncsi.com # General
 dns.msftncsi.com#General
@@ -450,6 +457,7 @@ geo3.ggpht.com#General
 geo-prod.do.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com # General
 geo-prod.do.dsp.mp.microsoft.com#General
+george.ns.cloudflare.com
 gfwsl.geforce.com
 gfwsl.geforce.com # GeForce
 gfwsl.geforce.com # General
@@ -575,6 +583,7 @@ itunes.com
 itunes.com # Apple - App Store
 j.mp # General
 j.mp#General
+jonah.ns.cloudflare.com
 jquery.com
 jquery.com # General
 jquery.com#General
@@ -582,6 +591,7 @@ js.maxmind.com
 jsdelivr.net
 jsdelivr.net # General
 jsdelivr.net#General
+kate.ns.cloudflare.com
 keystone.mwbsys.com
 keystone.mwbsys.com # General
 keystone.mwbsys.com#General
@@ -780,6 +790,7 @@ plex.tv#General
 pmd.cdn.turner.com
 pmd.cdn.turner.com # Adult Swim Videos on Amazon Firestick
 pmd.cdn.turner.com#AdultSwimVideosonAmazonFirestick
+pool.ntp.org
 ppq.apple.com
 ppq.apple.com # Apple - Enterprise App validation
 pricelist.skype.com
@@ -806,6 +817,7 @@ pubsub.plex.bz#General
 pubsub.plex.tv
 pubsub.plex.tv # General
 pubsub.plex.tv#General
+px1.tuyaus.com
 r4---sn-4g5e6nl7.googlevideo.com # do not block
 radarsubmissions.apple.com
 ransomwaretracker.abuse.ch
@@ -913,6 +925,7 @@ society6.com#General
 someonewhocares.org
 someonewhocares.org # Host files
 someonewhocares.org#Hostfiles
+sonos.com
 spamhaus.org
 spclient-wg.spotify.com # Spotify
 spclient-wg.spotify.com#Spotify
@@ -1012,8 +1025,10 @@ todo-ta-g7g.amazon.com
 todo-ta-g7g.amazon.com # Amazon Kindle
 todo-ta-g7g.amazon.com#AmazonKindle
 tom.ns.Cloudflare.com
+tp-link.com
 track.ucas.com
 traffic.libsyn.com
+trafficmanager.net
 tvdb2.plex.tv
 tvdb2.plex.tv # General
 tvdb2.plex.tv#General
@@ -1164,6 +1179,7 @@ www.solaredge.com#General
 www.squaretrade.com # General
 www.squaretrade.com#General
 www.stackoverflow.com
+www.textfixer.com
 www.twitter.com # General
 www.twitter.com#General
 www.xboxlive.com # General
@@ -1211,12 +1227,3 @@ zee.cws.conviva.com
 zeustracker.abuse.ch
 zeustracker.abuse.ch # Host files
 zeustracker.abuse.ch#Hostfiles
-www.textfixer.com
-cloudflare.net
-cloudfront.net
-jonah.ns.cloudflare.com
-pool.ntp.org
-2.pool.ntp.org
-dlink.com
-tp-link.com
-px1.tuyaus.com
