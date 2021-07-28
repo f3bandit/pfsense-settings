@@ -31,7 +31,9 @@
 6-edge-chat.facebook.com#Facebook
 .adsafeprotected.com
 .adsafeprotected.com # amazon app 6
+.amazon-adsystem.com
 .amazon-adsystem.com # amazon app ads
+.amazonaws.com
 .anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
 .anycast.static.adsafeprotected.com # CNAME for (static.adsafeprotected.com)
 .apple.com
@@ -53,6 +55,8 @@
 .wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
 a463.w10.akamai.net
 a790.w16.akamai.net
+aan.amazon.com
+aax-us-east.amazon-adsystem.com
 abby.ns.Cloudflare.com
 acb.netgate.com
 acdn.adnxs.com
@@ -446,6 +450,7 @@ filament.io#General
 firestore.googleapis.com
 fivethirtyeight.com # General
 fivethirtyeight.com#General
+fls-na.amazon.com
 fonts.gstatic.com
 fonts.gstatic.com # General
 fonts.gstatic.com#General
@@ -879,6 +884,7 @@ s3-eu-west-1.amazonaws.com#AmazonKindle
 s3.amazonaws.com
 s3.amazonaws.com # General
 s3.amazonaws.com#General
+s.amazon-adsystem.com
 s.cdn.turner.com
 s.cdn.turner.com # Adult Swim Videos on Amazon Firestick
 s.cdn.turner.com#AdultSwimVideosonAmazonFirestick
