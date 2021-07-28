@@ -45,6 +45,7 @@
 .github.com
 .githubusercontent.com
 .gitlab.com
+.netgate.com
 .pixel.adsafeprotected.com # amazon app 4
 .px.moatads.com # amazon app 2
 .secure-gl.imrworldwide.com # amazon app 3
@@ -79,6 +80,7 @@ alexa.amazon.com
 alluremedia.com.au # General
 alluremedia.com.au#General
 amazon.com
+amazonalexa.com
 amazonaws.com
 amazonaws.com # General
 amazonaws.com#General
@@ -103,6 +105,7 @@ api.github.com
 api.ipify.org
 api.ipify.org # General
 api.ipify.org#General
+api.msn.com
 api.pluto.tv
 api.pluto.tv # Pluto.tv
 api.pluto.tv#Pluto.tv
@@ -144,6 +147,7 @@ apresolve.spotify.com#SpotifyPremiumusingDenonHeosspeakers
 apt.sonarr.tv
 apt.sonarr.tv # General
 apt.sonarr.tv#General
+arcus-uswest.amazon.com
 aspnetcdn.com
 aspnetcdn.com # General
 aspnetcdn.com#General
@@ -290,6 +294,7 @@ d2gatte9o95jao.cloudfront.net#General
 dashboard.plex.tv
 dashboard.plex.tv # General
 dashboard.plex.tv#General
+data.trafficmanager.net
 dataplicity.com
 dataplicity.com # General
 dataplicity.com#General
@@ -356,6 +361,7 @@ dropbox.com
 dsms0mj1bbhn4.cloudfront.net
 dsms0mj1bbhn4.cloudfront.net # Share buttons on websites
 dsms0mj1bbhn4.cloudfront.net#Sharebuttonsonwebsites
+dss-na.amazon.com
 dynupdate.no-ip.com
 dynupdate.no-ip.com # General
 dynupdate.no-ip.com#General
@@ -616,6 +622,7 @@ licensing.xboxlive.com#General
 link.theplatform.com
 linkedin.com # General
 linkedin.com#General
+linode.com
 linuxtracker.org # General
 linuxtracker.org#General
 live.com
@@ -722,6 +729,7 @@ ns2.dropbox.com#General
 ns.itunes.apple.com
 ns.itunes.apple.com # Apple
 ntp-g7g.amazon.com
+ntp.org
 o1.email.plex.tv
 o1.email.plex.tv # General
 o1.email.plex.tv#General
@@ -1001,6 +1009,7 @@ t0.ssl.ak.tiles.virtualearth.net#General
 t.co
 t.co # General
 t.co#General
+tabletcaptiveportal.com
 talosintelligence.com
 tasmota.github.io
 tawk.to
@@ -1134,6 +1143,7 @@ win1710.ipv6.microsoft.com#General
 winhelp2002.mvps.org
 winhelp2002.mvps.org # Host files
 winhelp2002.mvps.org#Hostfiles
+wo.vzwwo.com
 wordpress.com # General
 wordpress.com#General
 woz.ns.Cloudflare.com
