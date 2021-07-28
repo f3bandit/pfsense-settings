@@ -219,6 +219,7 @@ cdns.gigya.com
 cert.mgt.xboxlive.com
 cert.mgt.xboxlive.com # General
 cert.mgt.xboxlive.com#General
+checkip.dyndns.org
 chrome.cloudflare-dns.com
 cinsarmy.com
 clientconfig.passport.net
@@ -239,6 +240,7 @@ clients6.google.com#General
 cloudflare.com
 cloudflare.net
 cloudfront.net
+cloudsync-prod.s3.amazonaws.com
 cognito-identity.us-east-1.amazonaws.com
 cognito-identity.us-east-1.amazonaws.com # Amazon Kindle
 cognito-identity.us-east-1.amazonaws.com#AmazonKindle
@@ -336,6 +338,7 @@ dl.dropbox.com#General
 dl.dropboxusercontent.com
 dl.dropboxusercontent.com # General
 dl.dropboxusercontent.com#General
+dl.google.com
 dlink.com
 dns.msftncsi.com
 dns.msftncsi.com # General
@@ -428,9 +431,11 @@ fbcdn-creative-a.akamaihd.net#Facebook
 fbcdn.net
 fbcdn.net # Facebook
 fbcdn.net#Facebook
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 feodotracker.abuse.ch
 filament.io # General
 filament.io#General
+firestore.googleapis.com
 fivethirtyeight.com # General
 fivethirtyeight.com#General
 fonts.gstatic.com
@@ -488,6 +493,7 @@ googleads.g.doubleclick.net # do not block
 googleapis.com
 googleapis.com # General
 googleapis.com#General
+googleapis.l.google.com
 graph.facebook.com
 graph.facebook.com # Facebook
 graph.facebook.com#Facebook
@@ -504,6 +510,7 @@ gs.apple.com#Apple-macOSupdates.
 gstatic.com
 gstatic.com # General
 gstatic.com#General
+gstaticadssl.l.google.com
 hac.lp1.d4c.nintendo.net
 hass.azkaban.xyz
 heartbeat.dm.origin.com # General
@@ -534,6 +541,7 @@ i9.ytimg.com # do not block
 i.cdn.turner.com
 i.cdn.turner.com # Adult Swim Videos on Amazon Firestick
 i.cdn.turner.com#AdultSwimVideosonAmazonFirestick
+i.s-microsoft.com
 i.s-microsoft.com # General
 i.s-microsoft.com#General
 i.ytimg.com
@@ -570,6 +578,7 @@ intercom.io # General
 intercom.io#General
 iprofiles.apple.com # Apple - Hosts enrollment profiles used when devices enroll in Apple School Manager or Apple Business Manager through Device Enrollment.
 iprofiles.apple.com#Apple-HostsenrollmentprofilesusedwhendevicesenrollinAppleSchoolManagerorAppleBusinessManagerthroughDeviceEnrollment.
+ipv6.msftncsi.com
 isc.sans.edu
 isu.apple.com # Apple
 isu.apple.com#Apple
@@ -676,6 +685,7 @@ mobile.pipe.aria.microsoft.com#General
 mqtt-mini.facebook.com
 mqtt-mini.facebook.com # Facebook
 mqtt-mini.facebook.com#Facebook
+msedge.api.cdp.microsoft.com
 msftncsi.com
 msftncsi.com # General
 msftncsi.com#General
@@ -711,6 +721,7 @@ ns2.dropbox.com # General
 ns2.dropbox.com#General
 ns.itunes.apple.com
 ns.itunes.apple.com # Apple
+ntp-g7g.amazon.com
 o1.email.plex.tv
 o1.email.plex.tv # General
 o1.email.plex.tv#General
@@ -832,7 +843,9 @@ redirector.googlevideo.com
 redirector.googlevideo.com # do not block
 redirector.googlevideo.com # General
 redirector.googlevideo.com#General
+redirector.gvt1.com
 refersion.com
+reminders-pa.googleapis.com
 res.cloudinary.com
 res.cloudinary.com # General
 res.cloudinary.com#General
@@ -920,6 +933,7 @@ skyhook.sonarr.tv # General
 skyhook.sonarr.tv#General
 skype.com # General
 skype.com#General
+sls.update.microsoft.com.akadns.net
 society6.com # General
 society6.com#General
 someonewhocares.org
@@ -1009,6 +1023,7 @@ time-macos.apple.com
 time-macos.apple.com # Apple - Used by devices to set their date and time.
 time.apple.com
 time.apple.com # Apple - Used by devices to set their date and time.
+time.google.com
 time.samsungcloudsolution.com
 time.samsungcloudsolution.com # Samsung TV's Amazon Prime video app
 time.samsungcloudsolution.com#SamsungTV'sAmazonPrimevideoapp
@@ -1021,12 +1036,14 @@ title.auth.xboxlive.com#General
 title.mgt.xboxlive.com
 title.mgt.xboxlive.com # General
 title.mgt.xboxlive.com#General
+tlu.dl.delivery.mp.microsoft.com
 todo-ta-g7g.amazon.com
 todo-ta-g7g.amazon.com # Amazon Kindle
 todo-ta-g7g.amazon.com#AmazonKindle
 tom.ns.Cloudflare.com
 tp-link.com
 track.ucas.com
+tracking.epicgames.com
 traffic.libsyn.com
 trafficmanager.net
 tvdb2.plex.tv
@@ -1079,6 +1096,7 @@ v.firebog.net # Host files
 v.firebog.net#Hostfiles
 v.shopify.com # General
 v.shopify.com#General
+v.w-x.co
 valid.apple.com
 valid.apple.com # Apple - Security certificate validation.
 version.home-assistant.io
