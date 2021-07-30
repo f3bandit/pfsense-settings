@@ -32,6 +32,7 @@
 .secure-gl.imrworldwide.com  amazon app 3
 .sourceforge.net
 .wildcard.moatads.com.edgekey.net  CNAME for (px.moatads.com)
+.youtube.com
 a463.w10.akamai.net
 a790.w16.akamai.net
 aan.amazon.com
@@ -664,7 +665,10 @@ yahoo.com
 youtu.be
 youtube-nocookie.com
 youtube-ui.l.google.com
+youtube.112.2o7.net
 youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
 yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
