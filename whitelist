@@ -1,9 +1,3 @@
-ssl.gstatic.com
-play.google.com
-keep.google.com
-fos5echocaptiveportal.com
-d3p8zr0ffa9t17.cloudfront.net
-content-autofill.googleapis.com
 0-edge-chat.facebook.com
 0.client-channel.google.com
 1-edge-chat.facebook.com
@@ -31,6 +25,7 @@ content-autofill.googleapis.com
 .github.com
 .githubusercontent.com
 .gitlab.com
+.googleapis.com
 .netgate.com
 .pixel.adsafeprotected.com  amazon app 4
 .px.moatads.com  amazon app 2
@@ -158,6 +153,7 @@ cognito-identity.us-east-1.amazonaws.com
 configuration.apple.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+content-autofill.googleapis.com
 continuum.dds.microsoft.com
 control.kochava.com
 cpms35.spop10.ams.plex.bz
@@ -180,6 +176,7 @@ cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
 dashboard.plex.tv
 data.trafficmanager.net
 dataplicity.com
@@ -269,6 +266,7 @@ fonts.gstatic.com
 forms.gle
 forms.office.com
 forums.sonarr.tv
+fos5echocaptiveportal.com
 fpdownload.adobe.com
 fs.microsoft.com
 g.live.com
@@ -347,6 +345,7 @@ jquery.com
 js.maxmind.com
 jsdelivr.net
 kate.ns.cloudflare.com
+keep.google.com
 keystone.mwbsys.com
 kim.ns.Cloudflare.com
 lastfm-img2.akamaized.net
@@ -440,6 +439,7 @@ pinterest.com
 pixel.nymag.com
 placehold.it
 placeholdit.imgix.net
+play.google.com
 players.brightcove.net
 players.pluto.tv
 plex.tv
@@ -524,6 +524,7 @@ spclient.wg.spotify.com
 sq-device.apple.com
 sqs.us-east-1.amazonaws.com
 ssl.google-analytics.com
+ssl.gstatic.com
 ssl.p.jwpcdn.com
 sslbl.abuse.ch
 stackoverflow.com
@@ -668,4 +669,3 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
-.googleapis.com
