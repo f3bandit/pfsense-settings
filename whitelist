@@ -12,26 +12,26 @@
 .adsafeprotected.com
 .amazon-adsystem.com
 .amazonaws.com
-.anycast.pixel.adsafeprotected.com  CNAME for (pixel.adsafeprotected.com)
-.anycast.static.adsafeprotected.com  CNAME for (static.adsafeprotected.com)
+.anycast.pixel.adsafeprotected.com
+.anycast.static.adsafeprotected.com
 .apple.com
-.bs.eyeblaster.akadns.net  CNAME for (bs.serving-sys.com)
-.bs.serving-sys.com  amazon app 5
-.bsla.eyeblaster.akadns.net  CNAME for (bs.serving-sys.com)
+.bs.eyeblaster.akadns.net
+.bs.serving-sys.com
+.bsla.eyeblaster.akadns.net
 .control.kochava.com  alexa 2
-.device-metrics-us-2.amazon.com  alexa 3
-.e13136.g.akamaiedge.net  CNAME for (px.moatads.com)
+.device-metrics-us-2.amazon.com
+.e13136.g.akamaiedge.net
 .fls-na.amazon.com  alexa
 .github.com
 .githubusercontent.com
 .gitlab.com
 .googleapis.com
 .netgate.com
-.pixel.adsafeprotected.com  amazon app 4
-.px.moatads.com  amazon app 2
-.secure-gl.imrworldwide.com  amazon app 3
+.pixel.adsafeprotected.com
+.px.moatads.com
+.secure-gl.imrworldwide.com
 .sourceforge.net
-.wildcard.moatads.com.edgekey.net  CNAME for (px.moatads.com)
+.wildcard.moatads.com.edgekey.net
 .youtube.com
 a463.w10.akamai.net
 a790.w16.akamai.net
@@ -52,8 +52,8 @@ akamai.com
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
-albert.apple.com  Apple - Device activation.
-albert.apple.comApple-Deviceactivation.
+albert.apple.com
+albert.apple.com
 alexa.amazon.com
 alluremedia.com.au
 amazon.com
@@ -68,8 +68,8 @@ amzn.to  URL Shorteners
 amzn.toURLShorteners
 android.clients.google.com
 api-global.netflix.com
-api-global.netflix.com  Netflix
-api-global.netflix.comNetflix
+api-global.netflix.com
+api-global.netflix.com
 api.amazon.com
 api.amazonalexa.com
 api.github.com
@@ -85,13 +85,13 @@ app-api.ted.com
 app.emby.media
 app.plex.tv
 appboot.netflix.com
-appboot.netflix.com  Netflix
-appboot.netflix.comNetflix
-appldnld.apple.com  Apple - iOS updates.
-appldnld.apple.comApple-iOSupdates.
+appboot.netflix.com
+appboot.netflix.com
+appldnld.apple.com
+appldnld.apple.com
 appleid.apple.com
-appleid.apple.com  Apple
-appleid.apple.comApple
+appleid.apple.com
+appleid.apple.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
@@ -110,8 +110,8 @@ azkaban.xyz
 best.aliexpress.com
 bing.com
 bit.ly
-bit.ly  URL Shorteners
-bit.lyURLShorteners
+bit.ly
+bit.ly
 bob.ns.Cloudflare.com
 brightcove.net
 bufferapp.com
@@ -123,8 +123,8 @@ cdn1.smartadserver.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdn-mobile.api.pluto.tv
-cdn-mobile.api.pluto.tv  Pluto.tv
-cdn-mobile.api.pluto.tvPluto.tv
+cdn-mobile.api.pluto.tv
+cdn-mobile.api.pluto.tv
 cdn.cloudflare.net
 cdn.embedly.com
 cdn.fbsbx.com
@@ -310,8 +310,8 @@ home-assistant.io
 hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
-humb.apple.com  Apple
-humb.apple.comApple
+humb.apple.com
+humb.apple.com
 i1.ytimg.com
 i9.ytimg.com
 i.cdn.turner.com
@@ -322,8 +322,8 @@ identity.apple.com
 ig.apple.com
 iheartradio.com
 images.pluto.tv
-images.pluto.tv  Pluto.tv
-images.pluto.tvPluto.tv
+images.pluto.tv
+images.pluto.tv
 imagesak.secureserver.net
 img.vidible.tv
 imgix.net
@@ -351,7 +351,8 @@ keystone.mwbsys.com
 kim.ns.Cloudflare.com
 lastfm-img2.akamaized.net
 lcdn-registration.apple.com
-lcdn-registration.apple.com  Apple
+lcdn-registration.apple.com
+lh3.googleusercontent.com
 licensing.xboxlive.com
 link.theplatform.com
 linkedin.com
@@ -426,8 +427,8 @@ oscdn.apple.com
 oscp.apple.com
 osrecovery.apple.com
 ota-downloads.nvidia.com
-ota-downloads.nvidia.com  GeForce
-ota-downloads.nvidia.comGeForce
+ota-downloads.nvidia.com
+ota-downloads.nvidia.com
 outlook.live.com
 outlook.office365.com
 ow.ly
