@@ -21,11 +21,14 @@
 .control.kochava.com  alexa 2
 .device-metrics-us-2.amazon.com
 .e13136.g.akamaiedge.net
+.emergingthreats.net
 .fls-na.amazon.com  alexa
 .github.com
 .githubusercontent.com
 .gitlab.com
 .googleapis.com
+.home-assistant.io
+.nabucasa.com
 .netgate.com
 .pixel.adsafeprotected.com
 .px.moatads.com
@@ -37,14 +40,14 @@ a463.w10.akamai.net
 a790.w16.akamai.net
 aan.amazon.com
 aax-us-east.amazon-adsystem.com
-abby.ns.Cloudflare.com
+abby.ns.cloudflare.com
 acb.netgate.com
 accounts.google.com
 acdn.adnxs.com
 activate.adobe.com
 adf.ly
-adf.ly  URL Shorteners
-adf.lyURLShorteners
+adf.ly  url shorteners
+adf.lyurlshorteners
 ads.play.cbsi.video
 ae01.alicdn.com
 akadns.net
@@ -53,7 +56,7 @@ akamaihd.net
 akamaitechnologies.com
 akamaized.net
 albert.apple.com
-albert.apple.com
+alexa-api.nabucasa.com
 alexa.amazon.com
 alluremedia.com.au
 amazon.com
@@ -61,14 +64,13 @@ amazonalexa.com
 amazonaws.com
 amd.cdn.turner.com
 amzn.com
-amzn.com  URL Shorteners
-amzn.comURLShorteners
+amzn.com  url shorteners
+amzn.comurlshorteners
 amzn.to
-amzn.to  URL Shorteners
-amzn.toURLShorteners
+amzn.to  url shorteners
+amzn.tourlshorteners
 android.clients.google.com
-api-global.netflix.com
-api-global.netflix.com
+api2.branch.io
 api-global.netflix.com
 api.amazon.com
 api.amazonalexa.com
@@ -76,8 +78,8 @@ api.github.com
 api.ipify.org
 api.msn.com
 api.pluto.tv
-api.pluto.tv  Pluto.tv
-api.pluto.tvPluto.tv
+api.pluto.tv  pluto.tv
+api.pluto.tvpluto.tv
 api.rlje.net
 api.sbs.com.au
 api.whisker.iothings.site
@@ -85,12 +87,7 @@ app-api.ted.com
 app.emby.media
 app.plex.tv
 appboot.netflix.com
-appboot.netflix.com
-appboot.netflix.com
 appldnld.apple.com
-appldnld.apple.com
-appleid.apple.com
-appleid.apple.com
 appleid.apple.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
@@ -110,9 +107,8 @@ azkaban.xyz
 best.aliexpress.com
 bing.com
 bit.ly
-bit.ly
-bit.ly
-bob.ns.Cloudflare.com
+bob.ns.cloudflare.com
+brahe.apptimize.com
 brightcove.net
 bufferapp.com
 bugmenot.com
@@ -123,12 +119,10 @@ cdn1.smartadserver.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdn-mobile.api.pluto.tv
-cdn-mobile.api.pluto.tv
-cdn-mobile.api.pluto.tv
 cdn.cloudflare.net
 cdn.embedly.com
 cdn.fbsbx.com
-cdn.fbsbx.comFacebook
+cdn.fbsbx.comfacebook
 cdn.optimizely.com
 cdn.refersion.com
 cdn.samsungcloudsolution.com
@@ -160,7 +154,7 @@ control.kochava.com
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
 creative.ak.fbcdn.net
-creative.ak.fbcdn.netFacebook
+creative.ak.fbcdn.netfacebook
 crl3.digicert.com
 crl4.digicert.com
 crl.apple.com
@@ -204,6 +198,7 @@ dl.dropboxusercontent.com
 dl.google.com
 dlink.com
 dns.msftncsi.com
+doc.emergingthreats.net
 download.sonarr.tv
 drift.com
 driftt.com
@@ -217,46 +212,46 @@ ebay.com
 ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge-chat.facebook.com
-edge-chat.facebook.comFacebook
+edge-chat.facebook.comfacebook
 edge-mqtt.facebook.com
-edge-mqtt.facebook.comFacebook
+edge-mqtt.facebook.comfacebook
 edge.api.brightcove.com
 eds.xboxlive.com
 entitlement.auth.adobe.com
 events.gfe.nvidia.com
-events.gfe.nvidia.com  GeForce
-events.gfe.nvidia.comGeForce
+events.gfe.nvidia.com  geforce
+events.gfe.nvidia.comgeforce
 external-lhr0-1.xx.fbcdn.net
-external-lhr0-1.xx.fbcdn.netFacebook
+external-lhr0-1.xx.fbcdn.netfacebook
 external-lhr1-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.netFacebook
+external-lhr1-1.xx.fbcdn.netfacebook
 external-lhr2-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.netFacebook
+external-lhr2-1.xx.fbcdn.netfacebook
 external-lhr3-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.netFacebook
+external-lhr3-1.xx.fbcdn.netfacebook
 external-lhr4-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.netFacebook
+external-lhr4-1.xx.fbcdn.netfacebook
 external-lhr5-1.xx.fbcdn.net
-external-lhr5-1.xx.fbcdn.netFacebook
+external-lhr5-1.xx.fbcdn.netfacebook
 external-lhr6-1.xx.fbcdn.net
-external-lhr6-1.xx.fbcdn.netFacebook
+external-lhr6-1.xx.fbcdn.netfacebook
 external-lhr7-1.xx.fbcdn.net
-external-lhr7-1.xx.fbcdn.netFacebook
+external-lhr7-1.xx.fbcdn.netfacebook
 external-lhr8-1.xx.fbcdn.net
-external-lhr8-1.xx.fbcdn.netFacebook
+external-lhr8-1.xx.fbcdn.netfacebook
 external-lhr9-1.xx.fbcdn.net
-external-lhr9-1.xx.fbcdn.netFacebook
+external-lhr9-1.xx.fbcdn.netfacebook
 external-lhr10-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.netFacebook
+external-lhr10-1.xx.fbcdn.netfacebook
 f1.media.brightcove.com
 facebook.com
-facebook.comFacebook
+facebook.comfacebook
 facebook.net
-facebook.netFacebook
+facebook.netfacebook
 fbcdn-creative-a.akamaihd.net
-fbcdn-creative-a.akamaihd.netFacebook
+fbcdn-creative-a.akamaihd.netfacebook
 fbcdn.net
-fbcdn.netFacebook
+fbcdn.netfacebook
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 feodotracker.abuse.ch
 filament.io
@@ -271,6 +266,7 @@ fos5echocaptiveportal.com
 fpdownload.adobe.com
 fs.microsoft.com
 g.live.com
+gcp-prod-md.apptimize.com # CNAME for (md-a-c.apptimize.com)
 gdmf.apple.com
 geo3.ggpht.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -284,17 +280,17 @@ github.map.fastly.net
 gnf-mdn.apple.com
 gnf-mr.apple.com
 goo.gl
-goo.gl  URL Shorteners
-goo.glURLShorteners
+goo.gl  url shorteners
+goo.glurlshorteners
 google-analytics.com
 google.com
 googleads.g.doubleclick.net
 googleapis.com
 googleapis.l.google.com
 graph.facebook.com
-graph.facebook.comFacebook
+graph.facebook.comfacebook
 graph.instagram.com
-graph.instagram.comFacebook
+graph.instagram.comfacebook
 graph.oculus.com
 gravatar.com
 gs.apple.com
@@ -311,7 +307,6 @@ hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
 humb.apple.com
-humb.apple.com
 i1.ytimg.com
 i9.ytimg.com
 i.cdn.turner.com
@@ -321,8 +316,6 @@ icloud.com
 identity.apple.com
 ig.apple.com
 iheartradio.com
-images.pluto.tv
-images.pluto.tv
 images.pluto.tv
 imagesak.secureserver.net
 img.vidible.tv
@@ -348,9 +341,8 @@ jsdelivr.net
 kate.ns.cloudflare.com
 keep.google.com
 keystone.mwbsys.com
-kim.ns.Cloudflare.com
+kim.ns.cloudflare.com
 lastfm-img2.akamaized.net
-lcdn-registration.apple.com
 lcdn-registration.apple.com
 lh3.googleusercontent.com
 licensing.xboxlive.com
@@ -364,7 +356,7 @@ lm.licenses.adobe.com
 login.aliexpress.com
 login.live.com
 login.microsoftonline.com
-lola.ns.Cloudflare.com
+lola.ns.cloudflare.com
 lotustalk.com
 m.hotmail.com
 m.weeklyad.target.com
@@ -373,7 +365,8 @@ mail.google.com
 manifest.auditude.com
 manifest.googlevideo.com
 market.spotify.com
-max.ns.Cloudflare.com
+max.ns.cloudflare.com
+md-a-c.apptimize.com
 mdmenrollment.apple.com
 media.sbs.com.au
 medium.com
@@ -383,14 +376,14 @@ meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
 metrics.icloud.com
-metrics.icloud.com  Apple
+metrics.icloud.com  apple
 microsoft.com
 microsoftonline.com
-mira.ns.Cloudflare.com
+mira.ns.cloudflare.com
 mobile-ap.spotify.com
 mobile.pipe.aria.microsoft.com
 mqtt-mini.facebook.com
-mqtt-mini.facebook.comFacebook
+mqtt-mini.facebook.comfacebook
 msedge.api.cdp.microsoft.com
 msftncsi.com
 music.amazon.com
@@ -402,6 +395,7 @@ nintendo.com
 nintendo.net
 no-ip.com
 node.plexapp.com
+notify.bugsnag.com
 notify.xboxlive.com
 npr-news.streaming.adswizz.com
 ns1.dropbox.com
@@ -426,8 +420,6 @@ opfcaptcha-prod.s3.amazonaws.com
 oscdn.apple.com
 oscp.apple.com
 osrecovery.apple.com
-ota-downloads.nvidia.com
-ota-downloads.nvidia.com
 ota-downloads.nvidia.com
 outlook.live.com
 outlook.office365.com
@@ -490,29 +482,30 @@ saa.cbsi.com
 sbs.com.au
 sbsvodns-vh.akamaihd.net
 scontent-lhr3-1.xx.fbcdn.net
-scontent-lhr3-1.xx.fbcdn.netFacebook
+scontent-lhr3-1.xx.fbcdn.netfacebook
 scontent.fgdl5-1.fna.fbcdn.net
-scontent.fgdl5-1.fna.fbcdn.netFacebook
+scontent.fgdl5-1.fna.fbcdn.netfacebook
 scontent.xx.fbcdn.net
-scontent.xx.fbcdn.netFacebook
+scontent.xx.fbcdn.netfacebook
 secure-gl.imrworldwide.com
 secure.avangate.com
 secure.brightcove.com
 secure.netflix.com
-secure.netflix.com  Netflix
-secure.netflix.comNetflix
+secure.netflix.com  netflix
+secure.netflix.comnetflix
 secure.surveymonkey.com
 serverstatus.apple.com
 services.sonarr.tv
+sessions.bugsnag.com
 setup.icloud.com
 shareaholic.com
 sharepoint.com
 silo.pluto.tv
-silo.pluto.tv  Pluto.tv
-silo.pluto.tvPluto.tv
+silo.pluto.tv  pluto.tv
+silo.pluto.tvpluto.tv
 siloh.pluto.tv
-siloh.pluto.tv  Pluto.tv
-siloh.pluto.tvPluto.tv
+siloh.pluto.tv  pluto.tv
+siloh.pluto.tvpluto.tv
 skl.apple.com
 skyhook.sonarr.tv
 skype.com
@@ -536,8 +529,8 @@ static.opensubtitles.org
 stats.streamelements.com
 status.plex.tv
 stitcher.pluto.tv
-stitcher.pluto.tv  Pluto.tv
-stitcher.pluto.tvPluto.tv
+stitcher.pluto.tv  pluto.tv
+stitcher.pluto.tvpluto.tv
 support.microsoft.com
 surveymonkey.com
 swcdn.apple.com
@@ -551,10 +544,11 @@ t0.ssl.ak.tiles.virtualearth.net
 t.co
 tabletcaptiveportal.com
 talosintelligence.com
+tasmota.azkaban.xyz
 tasmota.github.io
 tawk.to
 tbsc.apple.com
-tbsc.apple.com  Apple
+tbsc.apple.com  apple
 tedcdn.com
 themoviedb.com
 thetvdb.com
@@ -568,7 +562,7 @@ title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tlu.dl.delivery.mp.microsoft.com
 todo-ta-g7g.amazon.com
-tom.ns.Cloudflare.com
+tom.ns.cloudflare.com
 tp-link.com
 track.ucas.com
 tracking.epicgames.com
@@ -616,13 +610,15 @@ win1710.ipv6.microsoft.com
 winhelp2002.mvps.org
 wo.vzwwo.com
 wordpress.com
-woz.ns.Cloudflare.com
+woz.ns.cloudflare.com
 wp.com
 ws-ee-maidsvc.icloud.com
 ws.audioscrobbler.com
 www.adf.ly
 www.aliexpress.com
+www.api2.branch.io
 www.bit.ly
+www.brahe.apptimize.com
 www.dataplicity.com
 www.dropbox-dns.com
 www.dropbox.com
@@ -634,18 +630,21 @@ www.icloud.com
 www.itunes.com
 www.linuxtracker.org
 www.lotustalk.com
+www.md-a-c.apptimize.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
+www.notify.bugsnag.com
 www.opensubtitles.org
 www.ow.ly
-www.ow.ly  URL Shorteners
-www.ow.lyURLShorteners
+www.ow.ly  url shorteners
+www.ow.lyurlshorteners
 www.pbs.twimg.com  twitter images
 www.plex.tv
 www.propublica.org
 www.refersion.com
 www.sbs.com.au
+www.sessions.bugsnag.com
 www.solaredge.com
 www.squaretrade.com
 www.stackoverflow.com
@@ -660,7 +659,7 @@ xflight.xboxlive.com
 xkms.xbolive.com
 xkms.xboxlive.com
 xp.apple.com
-xp.apple.com  Apple
+xp.apple.com  apple
 xsts.auth.xboxlive.com
 yahoo.com
 youtu.be
