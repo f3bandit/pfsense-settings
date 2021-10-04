@@ -1,0 +1,3 @@
+||imdb.com/tr/*pageHit$xhr,redirect=noopjs,domain=imdb.com
+||fls-na.amazon.com/$xhr,redirect=noopjs,domain=imdb.com
+*$media,redirect=noopmp3-0.1s,domain=imdb.com,3p
