@@ -1,3 +1,86 @@
+cznpcuyuiceu4p4qnlz9q0fbvdmkl1616974854.uaid.imrworldwide.com
+dpm.demdex.net
+www.paramountplus.com
+ceres.iad-03.braze.com
+api2.branch.io
+cdn.branch.io
+saa.cbsi.com
+mobile-collector.newrelic.com
+www.facebook.com
+i-amlg-prod.appspot.com
+wwwimage-us.pplusstatic.com
+thumbnails.cbsig.net
+link.theplatform.com
+cbsinteractive.hb.omtrdc.net
+87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
+control.kochava.com
+secure-dcr.imrworldwide.com
+mtalk.google.com
+www.google.com
+68.68.250.142.in-addr.arpa
+imasdk.googleapis.com
+kvinit-prod.api.kochava.com
+sb.scorecardresearch.com
+(. )conviva.com
+ads.play.cbsi.video 87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
+c.aaxads.com
+c.amazon-adsystem.com
+cbsi.com.ssl.sc.omtrdc.net
+i-amlg-prod.appsot.com
+paramountplus.com
+partnerad.l.doubleclick.net
+pubads.g.doubleclick.net
+s0.2mdn.net
+sdk.imrworldwide.com
+secure-dcr.imworldwide.com
+tv.rlcdn.com
+udm.scorecardresearch.com
+.somni.bluebird.com
+.bluebird.com.data.adobedc.net # CNAME for (somni.bluebird.com)
+.email.aboutamazon.com
+.go.pardot.com # CNAME for (email.aboutamazon.com)
+.pi.pardot.com # CNAME for (email.aboutamazon.com)
+.pi-ue1.pardot.com # CNAME for (email.aboutamazon.com)
+.pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com # CNAME for (email.aboutamazon.com)
+.fls-na.amazon.com
+.gateway.prod.us-east-1.forester.a2z.com # CNAME for (fls-na.amazon.com)
+.endpoint.prod.us-east-1.forester.a2z.com # CNAME for (fls-na.amazon.com)
+.device-metrics-us-2.amazon.com
+.aax-us-east-retail-direct.amazon.com
+.aax-us-iad.amazon.com # CNAME for (aax-us-east-retail-direct.amazon.com)
+.api2.branch.io
+api.us-east-1.aiv-delivery.net
+www.api.us-east-1.aiv-delivery.net
+global.telemetry.insights.video.a2z.com # CNAME for (api.us-east-1.aiv-delivery.net)
+us-west-2.new-telemetry.insights.video.a2z.com # CNAME for (api.us-east-1.aiv-delivery.net)
+www.cdn.branch.io
+www.c.amazon-adsystem.com
+d1ykf07e75w7ss.cloudfront.net # CNAME for (c.amazon-adsystem.com)
+device-metrics-us.amazon.com
+www.device-metrics-us.amazon.com
+manifest.localytics.com
+www.manifest.localytics.com
+manifest.53.localytics.com # CNAME for (manifest.localytics.com)
+.amazonaws.com
+.amazon-adsystem.com
+fls-na.amazon.com
+aax-us-east.amazon-adsystem.com
+s.amazon-adsystem.com
+aax-us-iad.amazon.com #amazon mobile shopping
+aan.amazon.com #amazon mobile shopping
+mads.amazon.com #amazon mobile shopping
+reddit.com
+i.reddit.com
+redd.it
+redditmail.com
+googleadservices.com
+click.redditmail.com
+www.click.redditmail.com
+thirdparty.bnc.lt # CNAME for (click.redditmail.com)
+www.dpm.demdex.net
+gslb-2.demdex.net # CNAME for (dpm.demdex.net)
+edge-va6.demdex.net # CNAME for (dpm.demdex.net)
+dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com # CNAME for (dpm.demdex.net)
 0-edge-chat.facebook.com
 0.client-channel.google.com
 1-edge-chat.facebook.com
@@ -10,8 +93,6 @@
 5-edge-chat.facebook.com
 6-edge-chat.facebook.com
 .adsafeprotected.com
-.amazon-adsystem.com
-.amazonaws.com
 .anycast.pixel.adsafeprotected.com
 .anycast.static.adsafeprotected.com
 .apple.com
@@ -19,7 +100,6 @@
 .bs.serving-sys.com
 .bsla.eyeblaster.akadns.net
 .control.kochava.com  alexa 2
-.device-metrics-us-2.amazon.com
 .e13136.g.akamaiedge.net
 .emergingthreats.net
 .fls-na.amazon.com  alexa
@@ -39,7 +119,6 @@
 a463.w10.akamai.net
 a790.w16.akamai.net
 aan.amazon.com
-aax-us-east.amazon-adsystem.com
 abby.ns.cloudflare.com
 acb.netgate.com
 accounts.google.com
@@ -70,7 +149,6 @@ amzn.to
 amzn.to  url shorteners
 amzn.tourlshorteners
 android.clients.google.com
-api2.branch.io
 api-global.netflix.com
 api.amazon.com
 api.amazonalexa.com
@@ -114,7 +192,6 @@ bufferapp.com
 bugmenot.com
 c.s-microsoft.com
 captive.apple.com
-cbsinteractive.hb.omtrdc.net
 cdn1.smartadserver.com
 cdn2.optimizely.com
 cdn3.optimizely.com
@@ -150,7 +227,6 @@ connectivitycheck.android.com
 connectivitycheck.gstatic.com
 content-autofill.googleapis.com
 continuum.dds.microsoft.com
-control.kochava.com
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
 creative.ak.fbcdn.net
@@ -182,7 +258,6 @@ det-ta-g7g.amazon.com
 dev.virtualearth.net
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
 device.auth.xboxlive.com
 deviceenrollment.apple.com
 deviceservices-external.apple.com
@@ -257,7 +332,6 @@ feodotracker.abuse.ch
 filament.io
 firestore.googleapis.com
 fivethirtyeight.com
-fls-na.amazon.com
 fonts.gstatic.com
 forms.gle
 forms.office.com
@@ -346,7 +420,6 @@ lastfm-img2.akamaized.net
 lcdn-registration.apple.com
 lh3.googleusercontent.com
 licensing.xboxlive.com
-link.theplatform.com
 linkedin.com
 linode.com
 linuxtracker.org
@@ -424,7 +497,6 @@ ota-downloads.nvidia.com
 outlook.live.com
 outlook.office365.com
 ow.ly
-partnerad.l.doubleclick.net
 pbs.twimg.com
 pfsense.azkaban.xyz
 pgl.yoyo.org
@@ -446,7 +518,6 @@ products.office.com
 proxy02.pop.ord.plex.bz
 proxy.plex.bz
 proxy.plex.tv
-pubads.g.doubleclick.net
 pubsub.plex.bz
 pubsub.plex.tv
 px1.tuyaus.com
@@ -454,7 +525,6 @@ r4---sn-4g5e6nl7.googlevideo.com
 radarsubmissions.apple.com
 ransomwaretracker.abuse.ch
 raw.githubusercontent.com
-reddit.com
 redirector.googlevideo.com
 redirector.gvt1.com
 refersion.com
@@ -463,13 +533,11 @@ res.cloudinary.com
 resources.sbs.com.au
 rover.ebay.com
 rules.emergingthreats.net
-s0.2mdn.net
 s1.wp.com
 s2.youtube.com
 s3-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3.amazonaws.com
-s.amazon-adsystem.com
 s.cdn.turner.com
 s.gateway.messenger.live.com
 s.marketwatch.com
@@ -478,7 +546,6 @@ s.youtube.com
 s.ytimg.com
 s.zkcdn.net
 sa.symcb.com
-saa.cbsi.com
 sbs.com.au
 sbsvodns-vh.akamaihd.net
 scontent-lhr3-1.xx.fbcdn.net
@@ -623,7 +690,6 @@ www.dataplicity.com
 www.dropbox-dns.com
 www.dropbox.com
 www.google-analytics.com
-www.google.com
 www.googleapis.com
 www.howtogeek.com
 www.icloud.com
