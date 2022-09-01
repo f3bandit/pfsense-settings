@@ -1,3 +1,74 @@
+.twitter.com
+.play.google.com
+.drive.google.com
+.accounts.google.com
+.www.google.com
+.github.com
+.www.netflix.com
+.www.geo.netflix.com # CNAME for (www.netflix.com)
+.www.eu-west-1.prodaa.netflix.com # CNAME for (www.netflix.com)
+.outlook.live.com
+.edge-live.outlook.office.com # CNAME for (outlook.live.com)
+.outlook.ha-live.office365.com # CNAME for (outlook.live.com)
+.outlook.ha.office365.com # CNAME for (outlook.live.com)
+.outlook.ms-acdc.office.com # CNAME for (outlook.live.com)
+.amazonaws.com
+.login.live.com
+.login.msa.akadns6.net # CNAME for (login.live.com)
+.ipv4.login.msa.akadns6.net # CNAME for (login.live.com)
+.mail.google.com
+.googlemail.l.google.com # CNAME for (mail.google.com)
+.pbs.twimg.com
+.wildcard.twimg.com # CNAME for (pbs.twimg.com)
+.sites.google.com
+.www3.l.google.com # CNAME for (sites.google.com)
+.docs.google.com
+.mobile.free.fr
+cs9.wac.phicdn.net
+.www.instagram.com
+.z-p15-instagram.c10r.facebook.com # CNAME for (www.instagram.com)
+.graph.instagram.com
+.instagram.c10r.facebook.com # CNAME for (graph.instagram.com)
+.plus.google.com
+.samsungcloudsolution.net
+.samsungelectronics.com
+.icloud.com
+.microsoft.com
+.windows.com
+.skype.com
+.googleusercontent.com
+.oneclient.sfx.ms
+.sonyentertainmentnetwork.com
+.osint.bambenekconsulting.com
+.logging.apache.org
+.t.co
+evintl-ocsp.verisign.com
+evsecure-ocsp.verisign.com
+.symcb.com
+.symcd.com
+.digicert.com
+amazon.com
+amazon-adsystem.com
+s3.amazonaws.com
+s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
+.fls-na.amazon.com # alexa
+.control.kochava.com # alexa 2
+.device-metrics-us-2.amazon.com # alexa 3
+.amazon-adsystem.com # amazon app ads
+.px.moatads.com # amazon app 2
+.wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
+.secure-gl.imrworldwide.com # amazon app 3
+.pixel.adsafeprotected.com # amazon app 4
+.anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
+.bs.serving-sys.com # amazon app 5
+.bs.eyeblaster.akadns.net # CNAME for ()
+.bsla.eyeblaster.akadns.net # CNAME for ()
+.adsafeprotected.com # amazon app 6
+.s.amazon-adsystem.com # amazon app 7
+.aan.amazon.com # amazon app 8
+.gateway.prod.us-east-1.forester.a2z.com # CNAME for (fls-na.amazon.com) # amazon app 9
+.endpoint.prod.us-east-1.forester.a2z.com # CNAME for (fls-na.amazon.com) # amazon app 10
+.aax-us-iad.amazon.com # amazon app 11
 cznpcuyuiceu4p4qnlz9q0fbvdmkl1616974854.uaid.imrworldwide.com
 dpm.demdex.net
 www.paramountplus.com
@@ -61,7 +132,6 @@ www.device-metrics-us.amazon.com
 manifest.localytics.com
 www.manifest.localytics.com
 manifest.53.localytics.com # CNAME for (manifest.localytics.com)
-.amazonaws.com
 .amazon-adsystem.com
 fls-na.amazon.com
 aax-us-east.amazon-adsystem.com
@@ -103,7 +173,6 @@ dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com # CNAME for (dpm.demdex.net)
 .e13136.g.akamaiedge.net
 .emergingthreats.net
 .fls-na.amazon.com  alexa
-.github.com
 .githubusercontent.com
 .gitlab.com
 .googleapis.com
@@ -138,7 +207,6 @@ albert.apple.com
 alexa-api.nabucasa.com
 alexa.amazon.com
 alluremedia.com.au
-amazon.com
 amazonalexa.com
 amazonaws.com
 amd.cdn.turner.com
@@ -537,7 +605,6 @@ s1.wp.com
 s2.youtube.com
 s3-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
-s3.amazonaws.com
 s.cdn.turner.com
 s.gateway.messenger.live.com
 s.marketwatch.com
