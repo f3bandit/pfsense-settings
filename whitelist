@@ -51,8 +51,7 @@ amazon.com
 amazon-adsystem.com
 s3.amazonaws.com
 s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
-.fls-na.amazon.com # alexa
-.control.kochava.com # alexa 2
+fls-na.amazon.com
 .device-metrics-us-2.amazon.com # alexa 3
 .amazon-adsystem.com # amazon app ads
 .px.moatads.com # amazon app 2
@@ -66,8 +65,8 @@ s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
 .adsafeprotected.com # amazon app 6
 .s.amazon-adsystem.com # amazon app 7
 .aan.amazon.com # amazon app 8
-.gateway.prod.us-east-1.forester.a2z.com # CNAME for (fls-na.amazon.com) # amazon app 9
-.endpoint.prod.us-east-1.forester.a2z.com # CNAME for (fls-na.amazon.com) # amazon app 10
+.gateway.prod.us-east-1.forester.a2z.com
+.endpoint.prod.us-east-1.forester.a2z.com
 .aax-us-iad.amazon.com # amazon app 11
 cznpcuyuiceu4p4qnlz9q0fbvdmkl1616974854.uaid.imrworldwide.com
 dpm.demdex.net
@@ -92,8 +91,8 @@ www.google.com
 imasdk.googleapis.com
 kvinit-prod.api.kochava.com
 sb.scorecardresearch.com
-(. )conviva.com
-ads.play.cbsi.video 87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
+ads.play.cbsi.video 
+87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 c.aaxads.com
 c.amazon-adsystem.com
 cbsi.com.ssl.sc.omtrdc.net
@@ -114,8 +113,8 @@ udm.scorecardresearch.com
 .pi-ue1.pardot.com # CNAME for (email.aboutamazon.com)
 .pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com # CNAME for (email.aboutamazon.com)
 .fls-na.amazon.com
-.gateway.prod.us-east-1.forester.a2z.com # CNAME for (fls-na.amazon.com)
-.endpoint.prod.us-east-1.forester.a2z.com # CNAME for (fls-na.amazon.com)
+.gateway.prod.us-east-1.forester.a2z.com
+.endpoint.prod.us-east-1.forester.a2z.com
 .device-metrics-us-2.amazon.com
 .aax-us-east-retail-direct.amazon.com
 .aax-us-iad.amazon.com # CNAME for (aax-us-east-retail-direct.amazon.com)
@@ -169,10 +168,8 @@ dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com # CNAME for (dpm.demdex.net)
 .bs.eyeblaster.akadns.net
 .bs.serving-sys.com
 .bsla.eyeblaster.akadns.net
-.control.kochava.com  alexa 2
 .e13136.g.akamaiedge.net
 .emergingthreats.net
-.fls-na.amazon.com  alexa
 .githubusercontent.com
 .gitlab.com
 .googleapis.com
@@ -194,8 +191,6 @@ accounts.google.com
 acdn.adnxs.com
 activate.adobe.com
 adf.ly
-adf.ly  url shorteners
-adf.lyurlshorteners
 ads.play.cbsi.video
 ae01.alicdn.com
 akadns.net
@@ -211,11 +206,7 @@ amazonalexa.com
 amazonaws.com
 amd.cdn.turner.com
 amzn.com
-amzn.com  url shorteners
-amzn.comurlshorteners
 amzn.to
-amzn.to  url shorteners
-amzn.tourlshorteners
 android.clients.google.com
 api-global.netflix.com
 api.amazon.com
@@ -224,8 +215,6 @@ api.github.com
 api.ipify.org
 api.msn.com
 api.pluto.tv
-api.pluto.tv  pluto.tv
-api.pluto.tvpluto.tv
 api.rlje.net
 api.sbs.com.au
 api.whisker.iothings.site
@@ -362,8 +351,6 @@ edge.api.brightcove.com
 eds.xboxlive.com
 entitlement.auth.adobe.com
 events.gfe.nvidia.com
-events.gfe.nvidia.com  geforce
-events.gfe.nvidia.comgeforce
 external-lhr0-1.xx.fbcdn.net
 external-lhr0-1.xx.fbcdn.netfacebook
 external-lhr1-1.xx.fbcdn.net
@@ -422,8 +409,6 @@ github.map.fastly.net
 gnf-mdn.apple.com
 gnf-mr.apple.com
 goo.gl
-goo.gl  url shorteners
-goo.glurlshorteners
 google-analytics.com
 google.com
 googleads.g.doubleclick.net
@@ -517,7 +502,6 @@ meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
 metrics.icloud.com
-metrics.icloud.com  apple
 microsoft.com
 microsoftonline.com
 mira.ns.cloudflare.com
@@ -625,8 +609,6 @@ secure-gl.imrworldwide.com
 secure.avangate.com
 secure.brightcove.com
 secure.netflix.com
-secure.netflix.com  netflix
-secure.netflix.comnetflix
 secure.surveymonkey.com
 serverstatus.apple.com
 services.sonarr.tv
@@ -635,11 +617,7 @@ setup.icloud.com
 shareaholic.com
 sharepoint.com
 silo.pluto.tv
-silo.pluto.tv  pluto.tv
-silo.pluto.tvpluto.tv
 siloh.pluto.tv
-siloh.pluto.tv  pluto.tv
-siloh.pluto.tvpluto.tv
 skl.apple.com
 skyhook.sonarr.tv
 skype.com
@@ -663,8 +641,6 @@ static.opensubtitles.org
 stats.streamelements.com
 status.plex.tv
 stitcher.pluto.tv
-stitcher.pluto.tv  pluto.tv
-stitcher.pluto.tvpluto.tv
 support.microsoft.com
 surveymonkey.com
 swcdn.apple.com
@@ -682,7 +658,6 @@ tasmota.azkaban.xyz
 tasmota.github.io
 tawk.to
 tbsc.apple.com
-tbsc.apple.com  apple
 tedcdn.com
 themoviedb.com
 thetvdb.com
@@ -770,9 +745,7 @@ www.no-ip.com
 www.notify.bugsnag.com
 www.opensubtitles.org
 www.ow.ly
-www.ow.ly  url shorteners
-www.ow.lyurlshorteners
-www.pbs.twimg.com  twitter images
+www.pbs.twimg.com
 www.plex.tv
 www.propublica.org
 www.refersion.com
@@ -792,7 +765,6 @@ xflight.xboxlive.com
 xkms.xbolive.com
 xkms.xboxlive.com
 xp.apple.com
-xp.apple.com  apple
 xsts.auth.xboxlive.com
 yahoo.com
 youtu.be
@@ -806,3 +778,4 @@ yt3.ggpht.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
+mobileanalytics.us-east-1.amazonaws.com
