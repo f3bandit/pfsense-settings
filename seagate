@@ -1,0 +1,41 @@
+assets.adobedtm.com            ok
+assets.customer.io             ok 
+cdn.cookielaw.org              ok
+cdn.pricespider.com            scammy
+dispawsusva.inmoment.com       scammy
+dpm.demdex.net                 ok
+fastfonts.net                  ok 
+id.rlcdn.com                   ok
+in.ml314.com                   scammy
+intercept-client.inmoment.com  scammy
+lpcdn.lpsnmedia.net            ok
+iptag.liveperson.net           ok 
+ml314.compixel.quantserve.com  scammy
+rules.quantcount.com           ok
+s.yimg.jp                      questionable
+seagate.sc.omtrdc.net          ok
+secure.quantserve.com          ok
+snap.licdn.com                 social
+t.com                          questionable
+tag.demandbase.com             ok
+track-eu.customer.io           ok
+va.v.liveperson.net            ok
+clarity.ms                     ok
+recaptcha.net                  ok
+
+assets.adobedtm.com
+assets.customer.io
+cdn.cookielaw.org
+dpm.demdex.net
+fastfonts.net
+id.rlcdn.com
+lpcdn.lpsnmedia.net
+iptag.liveperson.net
+rules.quantcount.com
+seagate.sc.omtrdc.net
+secure.quantserve.com
+tag.demandbase.com
+track-eu.customer.io
+va.v.liveperson.net
+clarity.ms
+recaptcha.net
